@@ -1,6 +1,5 @@
 #!/usr/bin/python
-# script by Alex Eames http://RasPi.tv  
-# http://RasPi.tv/how-to-use-interrupts-with-python-on-the-raspberry-pi-and-rpi-gpio-part-3  
+# script by Osama Abomar
 from __future__ import print_function
 
 import RPi.GPIO as GPIO  
